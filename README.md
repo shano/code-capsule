@@ -1,6 +1,7 @@
 # Code Capsule
 
-![Code Capsule Logo](https://github.com/shano/code-capsule/blob/main/logo.png)
+![Code Capsule Logo](https://github.com/shano/code-capsule/blob/main/images/icon.png)
+
 
 The aim of this project is to provide an encapsulated development environment within a container.
 
